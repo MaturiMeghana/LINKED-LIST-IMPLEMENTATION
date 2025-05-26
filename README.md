@@ -15,11 +15,10 @@ This program demonstrates dynamic memory allocation and pointer manipulation, wh
 *tools and technologies*
 This program is written in standard C, making it portable across all major operating systems and platforms. It can be compiled and executed in:
 Component        	       Description
-Language	     -      C (Standard C - ISO C89/C99/C11 compliant)
-Compiler	      -    GCC / Clang / Turbo C / MinGW
-IDE/Text Editor -  	Code::Blocks, Visual Studio Code, Turbo C++, Dev C++
-OS Support	    -    Cross-platform (Windows, Linux, macOS)
-Libraries	      -   <stdio.h>, <stdlib.h>
+Programming Language	  -  C (ANSI C Standard)
+Compiler              -  	Turbo C++ (16-bit DOS)
+Libraries	            -  stdio.h, string.h, ctype.h, conio.h
+Editor                -  IDE	Turbo C++
 *platform*
 Turbo C++ (for educational DOS-based setups)
 *Application*
